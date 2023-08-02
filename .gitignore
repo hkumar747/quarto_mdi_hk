@@ -1,0 +1,8 @@
+*.swp
+_build
+template-computo-quarto.html
+template-computo-quarto.pdf
+template-computo-quarto_files/
+/.quarto/
+_extensions/
+.Rproj.user
